@@ -1,0 +1,316 @@
+[
+  {
+    "item": {
+      "value": "Q1986805",
+      "label": "Mircea Druc"
+    },
+    "start": {
+      "value": "1990-05-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1991-05-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1986805$62914bf8-49e3-0e6e-ce5e-27e20724157d"
+  },
+  {
+    "item": {
+      "value": "Q941388",
+      "label": "Valeriu Muravschi"
+    },
+    "replaces": {
+      "value": "Q347679",
+      "label": "Mircea Snegur"
+    },
+    "replacedBy": {
+      "value": "Q438706",
+      "label": "Andrei Sangheli"
+    },
+    "start": {
+      "value": "1991-05-28T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q941388$58e0ad13-4469-fa2e-3be8-31bcd23dced3"
+  },
+  {
+    "item": {
+      "value": "Q2143400",
+      "label": "Serafim Urechean"
+    },
+    "replaces": {
+      "value": "Q438715",
+      "label": "Ion Ciubuc"
+    },
+    "replacedBy": {
+      "value": "Q1672026",
+      "label": "Ion Sturza"
+    },
+    "start": {
+      "value": "1999-02-05T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-02-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q2143400$f963ca30-4bc5-c3c2-486e-b9f988838aee"
+  },
+  {
+    "item": {
+      "value": "Q1265040",
+      "label": "Dumitru Braghiș"
+    },
+    "start": {
+      "value": "1999-12-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-03-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1265040$92765258-49a1-b041-ac53-ee272e2a9391"
+  },
+  {
+    "item": {
+      "value": "Q61299",
+      "label": "Zinaida Greceanîi"
+    },
+    "replaces": {
+      "value": "Q182230",
+      "label": "Vasile Tarlev"
+    },
+    "replacedBy": {
+      "value": "Q57685",
+      "label": "Vlad Filat"
+    },
+    "start": {
+      "value": "2008-03-31T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q61299$aea7e9cf-4d10-ad67-a4cb-47e801b0943b"
+  },
+  {
+    "item": {
+      "value": "Q1371619",
+      "label": "Vitalie Pîrlog"
+    },
+    "replaces": {
+      "value": "Q61299",
+      "label": "Zinaida Greceanîi"
+    },
+    "replacedBy": {
+      "value": "Q57685",
+      "label": "Vlad Filat"
+    },
+    "start": {
+      "value": "2009-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-09-25T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1371619$164d9af5-4cdc-c18d-dd0b-fcf3f2e6b4c3"
+  },
+  {
+    "item": {
+      "value": "Q57685",
+      "label": "Vlad Filat"
+    },
+    "replaces": {
+      "value": "Q1371619",
+      "label": "Vitalie Pîrlog"
+    },
+    "replacedBy": {
+      "value": "Q58087",
+      "label": "Iurie Leancă"
+    },
+    "start": {
+      "value": "2009-09-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-03-25T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q57685$c6f86363-4fd4-59d9-36ec-3a20c8dc8685",
+    "ordinal": "9"
+  },
+  {
+    "item": {
+      "value": "Q58087",
+      "label": "Iurie Leancă"
+    },
+    "replaces": {
+      "value": "Q57685",
+      "label": "Vlad Filat"
+    },
+    "replacedBy": {
+      "value": "Q19281444",
+      "label": "Chiril Gaburici"
+    },
+    "start": {
+      "value": "2013-04-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-02-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q58087$fbea4f07-4245-901e-2ae1-1a5453e46b36",
+    "ordinal": "10"
+  },
+  {
+    "item": {
+      "value": "Q19281444",
+      "label": "Chiril Gaburici"
+    },
+    "replaces": {
+      "value": "Q58087",
+      "label": "Iurie Leancă"
+    },
+    "replacedBy": {
+      "value": "Q7911417",
+      "label": "Valeriu Streleț"
+    },
+    "start": {
+      "value": "2015-02-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-06-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q19281444$1159d62d-45a1-5486-0e5e-f7a58ad9435f",
+    "ordinal": "11"
+  },
+  {
+    "item": {
+      "value": "Q6968023",
+      "label": "Natalia Gherman"
+    },
+    "replaces": {
+      "value": "Q19281444",
+      "label": "Chiril Gaburici"
+    },
+    "replacedBy": {
+      "value": "Q7911417",
+      "label": "Valeriu Streleț"
+    },
+    "start": {
+      "value": "2015-06-22T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-07-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6968023$5024a7a3-4a25-8226-75c2-a8ffb83c7cb8"
+  },
+  {
+    "item": {
+      "value": "Q7911417",
+      "label": "Valeriu Streleț"
+    },
+    "replaces": {
+      "value": "Q6968023",
+      "label": "Natalia Gherman"
+    },
+    "replacedBy": {
+      "value": "Q7155601",
+      "label": "Pavel Filip"
+    },
+    "start": {
+      "value": "2015-07-30T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-10-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7911417$907bd372-42eb-7086-0a6f-f4a7cca0f00e",
+    "ordinal": "12"
+  },
+  {
+    "item": {
+      "value": "Q15715802",
+      "label": "Gheorghe Brega"
+    },
+    "replaces": {
+      "value": "Q7911417",
+      "label": "Valeriu Streleț"
+    },
+    "replacedBy": {
+      "value": "Q7155601",
+      "label": "Pavel Filip"
+    },
+    "start": {
+      "value": "2015-10-30T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-01-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15715802$6a1dc265-4a27-9431-34b9-9a74da94018a"
+  },
+  {
+    "item": {
+      "value": "Q7155601",
+      "label": "Pavel Filip"
+    },
+    "replaces": {
+      "value": "Q15715802",
+      "label": "Gheorghe Brega"
+    },
+    "replacedBy": {
+      "value": "Q15071069",
+      "label": "Maia Sandu"
+    },
+    "start": {
+      "value": "2016-01-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2019-06-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7155601$07ff41c2-47fb-171a-dc95-e02426c2256e",
+    "ordinal": "13"
+  },
+  {
+    "item": {
+      "value": "Q15071069",
+      "label": "Maia Sandu"
+    },
+    "start": {
+      "value": "2019-06-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2019-11-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15071069$d41a7057-40ac-8b9e-08be-aa033ff2fe0c"
+  },
+  {
+    "item": {
+      "value": "Q75020865",
+      "label": "Ion Chicu"
+    },
+    "start": {
+      "value": "2019-11-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q75020865$2df35632-428a-050c-2b98-d143d0c5419b"
+  }
+]
