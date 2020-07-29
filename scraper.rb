@@ -28,7 +28,7 @@ end
 # Each officeholder in the list
 class HolderItem < WikipediaOfficeholderRow
   def columns
-    %w[ordinal image name start_date end_date _party _election cabinet]
+    %w[ordinal image name start_date end_date _party _election _cabinet]
   end
 end
 
