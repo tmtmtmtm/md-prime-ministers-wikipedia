@@ -20,6 +20,7 @@ class WikipediaOfficeholderRow < WikipediaTableRow
 
   field :end_date do
     return unless end_date_str
+    return if end_date_str == incumbent_str
 
     dateclass.new(end_date_str).to_ymd
   end
@@ -58,6 +59,22 @@ class WikipediaOfficeholderRow < WikipediaTableRow
 
   def end_date_cell
     cell_for('end_date')
+  end
+
+  def start_date_str
+    start_date_cell.text.tidy
+  end
+
+  def end_date_str
+    end_date_cell.text.tidy
+  end
+
+  def incumbent_str
+    'Incumbent'
+  end
+
+  def dateclass
+    Date::Partial
   end
 
   def cell_for(str)
