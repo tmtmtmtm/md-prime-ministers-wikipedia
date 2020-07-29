@@ -30,6 +30,12 @@ class HolderItem < WikipediaOfficeholderRow
   def columns
     %w[ordinal image name start_date end_date _party _election _cabinet]
   end
+
+  def end_date_str
+    return '1999-02-05' if name == 'Ion Ciubuc'
+
+    super
+  end
 end
 
 url = ARGV.first || abort("Usage: #{$0} <url to scrape>")
