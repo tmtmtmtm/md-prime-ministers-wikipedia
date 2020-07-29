@@ -39,6 +39,52 @@
   },
   {
     "item": {
+      "value": "Q438706",
+      "label": "Andrei Sangheli"
+    },
+    "replaces": {
+      "value": "Q941388",
+      "label": "Valeriu Muravschi"
+    },
+    "replacedBy": {
+      "value": "Q438715",
+      "label": "Ion Ciubuc"
+    },
+    "start": {
+      "value": "1992-07-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-01-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q438706$AC83D988-41F7-4F57-A4BE-F7DC751C8323"
+  },
+  {
+    "item": {
+      "value": "Q438715",
+      "label": "Ion Ciubuc"
+    },
+    "replaces": {
+      "value": "Q438706",
+      "label": "Andrei Sangheli"
+    },
+    "replacedBy": {
+      "value": "Q2143400",
+      "label": "Serafim Urechean"
+    },
+    "start": {
+      "value": "1997-01-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-02-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q438715$1BB29883-7D1B-4F6B-AD12-F2808615B272"
+  },
+  {
+    "item": {
       "value": "Q2143400",
       "label": "Serafim Urechean"
     },
@@ -62,8 +108,62 @@
   },
   {
     "item": {
+      "value": "Q1672026",
+      "label": "Ion Sturza"
+    },
+    "replaces": {
+      "value": "Q2143400",
+      "label": "Serafim Urechean"
+    },
+    "replacedBy": {
+      "value": "Q1672026",
+      "label": "Ion Sturza"
+    },
+    "start": {
+      "value": "1999-02-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-03-12T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1672026$E086A2BD-BA23-4E98-8A5A-9E0B2618A520"
+  },
+  {
+    "item": {
+      "value": "Q1672026",
+      "label": "Ion Sturza"
+    },
+    "replaces": {
+      "value": "Q1672026",
+      "label": "Ion Sturza"
+    },
+    "replacedBy": {
       "value": "Q1265040",
       "label": "Dumitru Braghiș"
+    },
+    "start": {
+      "value": "1999-03-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-12-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1672026$127ED945-339F-46E5-9F2F-AFF50E45783B"
+  },
+  {
+    "item": {
+      "value": "Q1265040",
+      "label": "Dumitru Braghiș"
+    },
+    "replaces": {
+      "value": "Q1672026",
+      "label": "Ion Sturza"
+    },
+    "replacedBy": {
+      "value": "Q182230",
+      "label": "Vasile Tarlev"
     },
     "start": {
       "value": "1999-12-21T00:00:00Z",
@@ -74,6 +174,29 @@
       "precision": "11"
     },
     "statement": "Q1265040$92765258-49a1-b041-ac53-ee272e2a9391"
+  },
+  {
+    "item": {
+      "value": "Q182230",
+      "label": "Vasile Tarlev"
+    },
+    "replaces": {
+      "value": "Q1265040",
+      "label": "Dumitru Braghiș"
+    },
+    "replacedBy": {
+      "value": "Q61299",
+      "label": "Zinaida Greceanîi"
+    },
+    "start": {
+      "value": "2001-04-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2008-03-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q182230$5C7586A1-867D-4D48-AFED-14670DC39831"
   },
   {
     "item": {
@@ -292,6 +415,14 @@
       "value": "Q15071069",
       "label": "Maia Sandu"
     },
+    "replaces": {
+      "value": "Q7155601",
+      "label": "Pavel Filip"
+    },
+    "replacedBy": {
+      "value": "Q75020865",
+      "label": "Ion Chicu"
+    },
     "start": {
       "value": "2019-06-08T00:00:00Z",
       "precision": "11"
@@ -306,6 +437,10 @@
     "item": {
       "value": "Q75020865",
       "label": "Ion Chicu"
+    },
+    "replaces": {
+      "value": "Q15071069",
+      "label": "Maia Sandu"
     },
     "start": {
       "value": "2019-11-14T00:00:00Z",
